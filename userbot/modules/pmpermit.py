@@ -21,7 +21,7 @@ UNAPPROVED_MSG = (
     "`•Tunggu Sampai @IntanArap Melihat Ini!.`\n"
     "`Until then, please don't spam my PM..`\n"
     "`Terimakasih Semoga Anda mengerti`\n\n"
-    "`*This is an automated message`\n"
+    "`*Ini adalah pesan otomatis`\n"
     "`💖IntanArap❌💖`")
 # =================================================================
 
