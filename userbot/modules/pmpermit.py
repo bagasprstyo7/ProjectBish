@@ -19,7 +19,7 @@ from userbot.events import register
 UNAPPROVED_MSG = (
     "`❌ANDA MEMASUKI KAWASAN IntanArap❌.`\n"
     "`•Tunggu Sampai @IntanArap Melihat Ini!.`\n"
-    "`Until then, please don't spam my PM..`\n"
+    "`Sampai saat itu, tolong jangan spam PM saya ....`\n"
     "`Terimakasih Semoga Anda mengerti`\n\n"
     "`*Ini adalah pesan otomatis`\n"
     "`💖IntanArap❌💖`")
