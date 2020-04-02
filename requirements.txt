@@ -1,5 +1,4 @@
 aiohttp
-covid
 aria2p
 async_generator
 bs4
