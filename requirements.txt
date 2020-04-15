@@ -5,7 +5,6 @@ bs4
 cowpy
 # cryptg
 cffi
-
 dnspython
 emoji
 gitpython
